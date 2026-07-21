@@ -102,25 +102,3 @@
 </p>
 
 ---
-
-# 🐍 Contribution Snake
-
-> Create `.github/workflows/snake.yml` and use:
->
-> `Platane/snk`
-
-Then display:
-
-```md
-![Snake](https://github.com/AbhishekPawar-1904/AbhishekPawar-1904/blob/output/github-contribution-grid-snake.svg)
-```
-
----
-
-<div align="center">
-
-### ⭐ *"First, solve the problem. Then, write the code."*
-
-Thanks for visiting my profile! ⭐
-
-</div>
