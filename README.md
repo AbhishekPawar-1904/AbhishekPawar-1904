@@ -1,135 +1,472 @@
+````markdown
+<!-- ====================================================== -->
+<!--                GITHUB PROFILE README                   -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<img src="assets/banner.png" width="100%" alt="Banner"/>
+
 # Hi 👋, I'm Abhishek Pawar
 
-### B.Tech Computer Engineering Student | Java Full Stack Developer | AWS & Cloud Enthusiast
+### 💻 Java Full Stack Developer | ☁️ AWS Cloud Enthusiast | 🚀 Problem Solver
 
-I'm a Computer Engineering student passionate about building scalable web applications, cloud-based solutions, and solving real-world problems through technology. I enjoy learning new technologies, contributing to projects, and continuously improving my problem-solving skills.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;AWS+Cloud+Enthusiast;Spring+Boot+Developer;MERN+Stack+Developer;Open+Source+Learner;Always+Learning+New+Technologies" />
 
----
+<br>
 
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=AbhishekPawar-1904&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-* 🎓 B.Tech in Computer Engineering
-* 💻 Interested in **Java Full Stack Development**, **Cloud Computing**, and **Backend Engineering**
-* ☁️ Exploring **AWS** services and cloud-native application development
-* 🌱 Currently learning **Spring Boot, Microservices, Docker, and Advanced AWS**
-* 🧩 Practicing **Data Structures & Algorithms** and **Aptitude** for software engineering interviews
-* 🎯 Goal: Build impactful software products and grow as a Software Development Engineer
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
 
-### Programming Languages
+```java
+class AbhishekPawar {
 
-* Java
-* Python
-* JavaScript
-* SQL
-* HTML5
-* CSS3
+    String role = "Java Full Stack Developer";
 
-### Backend
+    String education = "B.Tech Computer Engineering";
 
-* Spring Boot
-* Spring MVC
-* Hibernate
-* JDBC
-* Node.js
-* Express.js
-* REST APIs
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "Spring MVC",
+        "Hibernate",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "MySQL",
+        "AWS"
+    };
 
-### Frontend
+    String currentlyLearning =
+        "Microservices | Docker | Advanced AWS | System Design";
 
-* React.js
-* Tailwind CSS
-* Bootstrap
-* JavaScript (ES6+)
+    String hobbies =
+        "Coding • Building Projects • Problem Solving";
 
-### Databases
-
-* MySQL
-* MongoDB
-* SQLite
-
-### Cloud & DevOps
-
-* Amazon Web Services (AWS)
-* Amazon S3
-* Amazon EC2
-* IAM
-* Git
-* GitHub
-
-### Tools
-
-* Visual Studio Code
-* IntelliJ IDEA
-* Eclipse
-* Postman
-* npm
+    String goal =
+        "Become a Software Development Engineer";
+}
+````
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Tech Stack
 
-### 🦁 Wildlife Monitoring on AWS
+## Languages
 
-A cloud-based wildlife monitoring system built using AWS services for secure image storage, processing, and deployment.
+<p align="center">
 
-**Tech Used:** AWS, Python, Amazon S3, EC2
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql"/>
 
----
-
-### 💻 CodeArena
-
-An online coding and assessment platform supporting coding challenges, authentication, and real-time programming contests.
-
-**Tech Used:** Java, Spring MVC, Hibernate, MySQL
+</p>
 
 ---
 
-### 🍽️ Smart Canteen Ordering System
+## Frameworks
 
-A digital food ordering system with menu management, order tracking, and customer authentication.
+<p align="center">
 
-**Tech Used:** Java, Spring MVC, Hibernate, MySQL
+<img src="https://skillicons.dev/icons?i=spring,hibernate,react,nodejs,express,bootstrap"/>
 
----
-
-### 💼 MERN Job Portal
-
-A full-stack recruitment platform connecting recruiters and job seekers with secure authentication and job management.
-
-**Tech Used:** MongoDB, Express.js, React.js, Node.js
+</p>
 
 ---
 
-## 📚 Currently Learning
+## Cloud & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman,mongodb,npm"/>
+
+</p>
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhishekPawar-1904&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekPawar-1904&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AbhishekPawar-1904&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AbhishekPawar-1904&theme=tokyonight&no-frame=true&column=7"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekPawar-1904&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🦁 Wildlife Monitoring AWS
+
+Cloud-based wildlife monitoring platform built using **AWS S3**, **EC2**, and **Python** for image storage, monitoring, and deployment.
+
+**Tech Used**
+
+`AWS`
+`Python`
+`Amazon S3`
+`EC2`
+
+---
+
+## 💻 CodeArena
+
+Competitive coding platform supporting authentication, coding contests, real-time challenges, and problem management.
+
+**Tech Used**
+
+`Java`
+`Spring MVC`
+`Hibernate`
+`MySQL`
+
+---
+
+## 🍽 Smart Canteen Ordering System
+
+Restaurant ordering system with secure authentication, menu management, and order tracking.
+
+**Tech Used**
+
+`Java`
+`Spring MVC`
+`Hibernate`
+`MySQL`
+
+---
+
+## 💼 MERN Job Portal
+
+Complete recruitment platform connecting recruiters and job seekers.
+
+**Tech Used**
+
+`MongoDB`
+`Express`
+`React`
+`Node.js`
+
+---
+
+## ⚡ Smart Energy Auditor
+
+Cloud-based energy auditing system for businesses to estimate electricity consumption and carbon footprint.
+
+**Tech Used**
+
+`AWS`
+`Python`
+`Machine Learning`
+
+---
+
+## 🤖 Rescue.AI
+
+Disaster management platform providing emergency assistance with real-time communication.
+
+**Tech Used**
+
+`Flask`
+`Socket.IO`
+`Leaflet`
+`SQLite`
+
+---
+
+# 🌱 Currently Learning
 
 * Spring Boot
 * Microservices
 * Docker
-* AWS Cloud Architecture
+* AWS Cloud
 * System Design
 * Data Structures & Algorithms
 
 ---
 
-## 📈 GitHub Goals
+# 🎯 2026 Goals
 
-* Build production-ready full-stack applications
-* Contribute to open-source projects
-* Strengthen cloud engineering skills
-* Share learning through projects and repositories
+✅ Master Spring Boot
 
----
+✅ Learn Kubernetes
 
-## 🤝 Let's Connect
+✅ Build Production-Level AWS Projects
 
-* 💼 LinkedIn: *Add your LinkedIn profile link*
-* 📧 Email: *Add your email address*
-* 🌐 Portfolio: *Add your portfolio link (if available)*
+✅ Contribute to Open Source
+
+✅ Solve 500+ DSA Problems
 
 ---
 
-### ⭐ "Code. Learn. Build. Improve. Repeat."
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+
+   
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+
+   
+
+<a href="https://github.com/AbhishekPawar-1904">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+
+   
+<div align="center">
+
+# Hi 👋, I'm Abhishek Pawar
+
+### 🚀 Java Full Stack Developer | AWS Cloud Enthusiast | Computer Engineering Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;AWS+Cloud+Enthusiast;MERN+Stack+Developer;Always+Learning+New+Technologies;Open+to+Internships+%26+Opportunities" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=AbhishekPawar-1904&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+</div>
+
+---
+
+# 💫 About Me
+
+```java
+class AbhishekPawar {
+
+    String education = "B.Tech Computer Engineering";
+
+    String[] interests = {
+        "Java Development",
+        "Spring Boot",
+        "AWS Cloud",
+        "Backend Engineering",
+        "Problem Solving"
+    };
+
+    String currentlyLearning =
+        "Spring Boot • Microservices • Docker • Advanced AWS";
+
+    String goal =
+        "Become a Software Development Engineer";
+}
+```
+
+* 🎓 Computer Engineering Student
+* 💻 Passionate about Java Full Stack Development
+* ☁️ Building Cloud Applications using AWS
+* 🌱 Learning Spring Boot, Docker & Microservices
+* 📚 Solving DSA and Aptitude problems every day
+* 🚀 Always building practical projects
+
+---
+
+# 🛠 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,hibernate,bootstrap" />
+</p>
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode,npm,docker" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🦁 Wildlife Monitoring AWS
+
+Cloud-based wildlife monitoring system using AWS services for secure image storage and processing.
+
+**Tech Stack**
+
+`AWS` `Python` `Amazon S3` `EC2`
+
+---
+
+## 💻 CodeArena
+
+Online coding assessment platform with authentication, coding contests and challenge management.
+
+**Tech Stack**
+
+`Java` `Spring MVC` `Hibernate` `MySQL`
+
+---
+
+## 🍽 Smart Canteen Ordering System
+
+Restaurant ordering system with authentication, menu management and order tracking.
+
+**Tech Stack**
+
+`Java` `Spring MVC` `Hibernate` `MySQL`
+
+---
+
+## 💼 MERN Job Portal
+
+Complete recruitment platform for recruiters and job seekers.
+
+**Tech Stack**
+
+`MongoDB` `Express` `React` `Node.js`
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhishekPawar-1904&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekPawar-1904&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AbhishekPawar-1904&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AbhishekPawar-1904&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekPawar-1904&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+* ☁️ AWS Cloud Projects
+* 🚀 Spring Boot Applications
+* 💻 Java Backend Development
+* 📚 Data Structures & Algorithms
+* 🔥 Open Source Contributions
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://github.com/AbhishekPawar-1904">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ *"First, solve the problem. Then, write the code."* — John Johnson
+
+**Thanks for visiting my profile!**
+
+</div>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+### ⭐ "First, solve the problem. Then, write the code."
+
+</div>
+
+---
+
+<div align="center">
+
+## Thanks for visiting my profile ❤️
+
+⭐ Don't forget to follow and star my repositories if you like my work!
+
+</div>
+```
